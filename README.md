@@ -9,7 +9,7 @@ Due to the limitation of file size, I will email you the processed data if you n
 ## Train the QSTR
 
 ```
-bash fast-train-roberta.py
+bash fast-train-roberta.sh
 ```
 
 ## Retrieve templates for Test Set 
@@ -17,4 +17,6 @@ bash fast-train-roberta.py
 bash select.sh
 ```
 
-After obtaining the retrieved templates, you can utilize any syntactically-controlled paraphrase generation model to generate paraphrases.
+After obtaining the retrieved templates, you can utilize any syntactically-controlled paraphrase generation models to generate paraphrases.
+
+If you have any questions, please create an issue or email me.
