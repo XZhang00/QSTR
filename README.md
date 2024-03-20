@@ -2,7 +2,7 @@
 Code for EMNLP2023 paper "A Quality-based Syntactic Template Retriever for Syntactically-controlled Paraphrase Generation".
 
 ## Data
-We use the QQPPos and ParaNMT datasets for our experiments and retain the same split with [SGCP](https://github.com/malllabiisc/SGCP). You can download the original data from [Data](https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/ashutosh_iisc_ac_in/ER-roD8qRXFCsyJwbOHOVPgBs-VTKNmkNLzQvM0cLtvBhw?e=a0dOid).
+We use the QQPPos and ParaNMT datasets for our experiments and retain the same split with [SGCP](https://github.com/malllabiisc/SGCP). You can download the data from [Data](https://drive.google.com/file/d/1fovvaKD6N2FssVl1lCsS-NrnI8mmygah/view?usp=drive_link).
 
 Due to the limitation of file size, I will email you the processed data if you need it. Please contact with me (23111135@bjtu.edu.cn).
 
